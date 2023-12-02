@@ -1,0 +1,1 @@
+Projeto do curso PyCodeBR, onde vamos realizar a criação de uma loja de carros com base em django e banco de dados dbsqlite por enquanto, futuramente pode ocorrer alterações não só no banco de dados mas no projeto. 
