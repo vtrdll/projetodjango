@@ -3,7 +3,7 @@ from cars.models import Car
 import re
 
 
-class CarlModelform(forms.ModelForm):
+class CarModelform(forms.ModelForm):
     class Meta:
         model = Car
         fields = '__all__'
